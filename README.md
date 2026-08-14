@@ -1,18 +1,25 @@
-![Real Estate Lead Funnel Analytics premium hero](assets/readme-hero.svg)
+<div align="center">
 
-# Real Estate Lead Funnel Analytics
+# REAL ESTATE LEAD FUNNEL ANALYTICS
 
-> PropTech lead intelligence dashboard for real estate inquiries, agent follow-ups, conversion stages, listing interest, and sales funnel performance.
+### PropTech Lead Intelligence & Conversion Analytics
 
-Built by **Arsim Shefkiu** under **FullStackWithAI**.
+**Inquiries. Agent response. Viewing requests. Funnel progression. Conversion.**
 
-[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
+[![Portfolio](https://img.shields.io/badge/portfolio-DesignHubMK-0A66C2?style=flat-square)](https://www.designhubmk.com)
+![Focus](https://img.shields.io/badge/focus-PropTech%20Leads-C9A646?style=flat-square)
+![Analytics](https://img.shields.io/badge/analytics-Lead%20Funnel%20%2B%20Conversion-0891B2?style=flat-square)
+![Status](https://img.shields.io/badge/status-Portfolio%20Project-2E8B57?style=flat-square)
+
+**Inquiries to appointments. Agent follow-ups to conversion clarity.**
+
+</div>
 
 ---
 
-## Real Estate Lead Intelligence Theme
+![Real Estate Lead Funnel Analytics premium hero](assets/readme-hero.svg)
 
-> **Inquiries to appointments. Agent follow-ups to conversion clarity.**
+## Real Estate Lead Intelligence Theme
 
 This repository is presented as a premium PropTech analytics dashboard for tracking real estate leads, listing inquiries, agent response speed, viewing requests, pipeline stages, and conversion performance.
 
@@ -37,10 +44,28 @@ This repository is presented as a premium PropTech analytics dashboard for track
 
 ---
 
-## Creator & Brand
+## Author
 
-### Built by **Arsim Shefkiu** under **FullStackWithAI**
+**Arsim Shefkiu**  
+**AI Software Engineer · Full-Stack Developer · SaaS & Automation**
 
-> **Real estate lead intelligence theme focused on listing demand, agent follow-up, lead funnels, and PropTech conversion analytics.**
+Founder of **DesignHubMK**, building AI-powered software, automation systems, and full-stack digital products.
 
-[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
+[![DesignHubMK](https://img.shields.io/badge/DesignHubMK-Website-555555?logo=googlechrome&logoColor=white)](https://www.designhubmk.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40designhub__mk-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/designhub_mk/)
+[![GitHub](https://img.shields.io/badge/GitHub-fullstackwithai-181717?logo=github&logoColor=white)](https://github.com/fullstackwithai)
+
+**Website:** https://www.designhubmk.com  
+**Instagram:** @designhub_mk
+
+---
+
+<div align="center">
+
+## Real Estate Lead Funnel Analytics
+
+**Inquiries to appointments. Agent follow-ups to conversion clarity.**
+
+Built by **Arsim Shefkiu · DesignHubMK**
+
+</div>
